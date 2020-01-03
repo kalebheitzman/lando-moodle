@@ -1,0 +1,6 @@
+recipe: lemp
+config:
+  php: '7.3'
+  webroot: ./moodle
+  database: mariadb
+  xdebug: false
